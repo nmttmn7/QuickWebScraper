@@ -6,12 +6,7 @@ This is a simple Python web scraper that extracts book information from [Books t
 
 ## Features
 
-- **Add Creatures**: Add creatures with attributes such as name, species, temperment, ect.
-- **World Generation**: Generate a world with water, grass, and mountains.
-- **Behavior Tree**: Behavior trees allow creatures to make decisions within the game world.
-- **Add/Remove from Behavior Tree**: Customize what your creature wants to do. Prioritize what goals take precedent over another.
-
-## Goals/TODO
-- **Survival System**: Add a Survival system. Creature must interact with one other(and the game world) in order to live!
+- **Scrap Data**: Scrapes book titles, prices, ratings, and availability.
+- **Save Data**: Saves the scraped data into a CSV file.
 
 
